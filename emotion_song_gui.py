@@ -187,7 +187,7 @@ def emotion_det_song():
             break
 
      
-text2='This project Detects the emotion of the user and plays a song according to user\'s mood.\n\nDeveloped by-- \n Sai Prasad \n Vinay \n Anirudh \n Mohan'
+text2='This project Detects the emotion of the user and plays a song according to user\'s mood.\n\nDeveloped by-- \n B. Madhu Sashank'
     
 T2=Text(root,font=('bold',12))
 T2.insert(tkinter.END,text2)
